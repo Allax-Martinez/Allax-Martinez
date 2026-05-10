@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Allax Martinez 👋
+I'm an IT graduate with a postgraduate degree in Computer Forensics, currently taking my first steps into the cybersecurity world.
+Still early in the journey, but committed to learning and growing every day.
 
-<!--
-**Allax-Martinez/Allax-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
 
-Here are some ideas to get you started:
+BSc in Computer Science | Postgraduate in Computer Forensics
+Exploring Blue Team & Red Team concepts
+SP — Brazil
+Currently studying for CompTIA Security+
+Familiar with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently Learning
+
+TryHackMe — Security Analyst path
+Google Cybersecurity Certificate
+GRC fundamentals
+CompTIA Security+
