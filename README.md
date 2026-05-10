@@ -1,8 +1,8 @@
-Hi, I'm Allax Martinez 👋
-I'm an IT graduate with a postgraduate degree in Computer Forensics, currently taking my first steps into the cybersecurity world.
+Hi, I'm Allax Martinez
+I'm a Computer Science graduate with a postgraduate degree in Computer Forensics, currently taking my first steps into the cybersecurity world.
 Still early in the journey, but committed to learning and growing every day.
 
-🔍 About Me
+About Me
 
 BSc in Computer Science | Postgraduate in Computer Forensics
 Exploring Blue Team & Red Team concepts
@@ -17,3 +17,4 @@ TryHackMe — Security Analyst path
 Google Cybersecurity Certificate
 GRC fundamentals
 CompTIA Security+
+
